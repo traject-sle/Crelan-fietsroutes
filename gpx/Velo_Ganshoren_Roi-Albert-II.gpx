@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Traject" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Ganshoren → Bd du Roi Albert II 5</name><desc>4,1 km · vélo classique 15 min · vélo de course 10 min · VAE 10 min</desc></metadata>
+  <wpt lat="50.87118" lon="4.31726"><name>Départ – Ganshoren</name></wpt>
+  <wpt lat="50.85713" lon="4.35629"><name>Arrivée – Bd du Roi Albert II 5, 1210 Bruxelles</name></wpt>
+  <trk>
+    <name>Ganshoren → Bd du Roi Albert II 5</name>
+    <desc>4,1 km · vélo classique 15 min · vélo de course 10 min · VAE 10 min</desc>
+    <type>cycling</type>
+    <trkseg>
+      <trkpt lat="50.87118" lon="4.31726"><ele>48</ele></trkpt>
+      <trkpt lat="50.87063" lon="4.31821"><ele>53</ele></trkpt>
+      <trkpt lat="50.87073" lon="4.31842"><ele>52</ele></trkpt>
+      <trkpt lat="50.87209" lon="4.32041"><ele>44</ele></trkpt>
+      <trkpt lat="50.87218" lon="4.32066"><ele>44</ele></trkpt>
+      <trkpt lat="50.87249" lon="4.32205"><ele>43</ele></trkpt>
+      <trkpt lat="50.87272" lon="4.32339"><ele>43</ele></trkpt>
+      <trkpt lat="50.87279" lon="4.32450"><ele>44</ele></trkpt>
+      <trkpt lat="50.87277" lon="4.32556"><ele>44</ele></trkpt>
+      <trkpt lat="50.87326" lon="4.32868"><ele>44</ele></trkpt>
+      <trkpt lat="50.87307" lon="4.32899"><ele>44</ele></trkpt>
+      <trkpt lat="50.87303" lon="4.32898"><ele>44</ele></trkpt>
+      <trkpt lat="50.87067" lon="4.33314"><ele>36</ele></trkpt>
+      <trkpt lat="50.87058" lon="4.33322"><ele>35</ele></trkpt>
+      <trkpt lat="50.87055" lon="4.33314"><ele>36</ele></trkpt>
+      <trkpt lat="50.87044" lon="4.33319"><ele>36</ele></trkpt>
+      <trkpt lat="50.86965" lon="4.33279"><ele>36</ele></trkpt>
+      <trkpt lat="50.86956" lon="4.33268"><ele>36</ele></trkpt>
+      <trkpt lat="50.86811" lon="4.33503"><ele>38</ele></trkpt>
+      <trkpt lat="50.86798" lon="4.33496"><ele>38</ele></trkpt>
+      <trkpt lat="50.86787" lon="4.33502"><ele>38</ele></trkpt>
+      <trkpt lat="50.86780" lon="4.33534"><ele>38</ele></trkpt>
+      <trkpt lat="50.86580" lon="4.33893"><ele>34</ele></trkpt>
+      <trkpt lat="50.86583" lon="4.33919"><ele>34</ele></trkpt>
+      <trkpt lat="50.86516" lon="4.33963"><ele>33</ele></trkpt>
+      <trkpt lat="50.86507" lon="4.33973"><ele>33</ele></trkpt>
+      <trkpt lat="50.86492" lon="4.33978"><ele>33</ele></trkpt>
+      <trkpt lat="50.86116" lon="4.34220"><ele>20</ele></trkpt>
+      <trkpt lat="50.86106" lon="4.34241"><ele>20</ele></trkpt>
+      <trkpt lat="50.86093" lon="4.34229"><ele>20</ele></trkpt>
+      <trkpt lat="50.85951" lon="4.34563"><ele>19</ele></trkpt>
+      <trkpt lat="50.85893" lon="4.34520"><ele>19</ele></trkpt>
+      <trkpt lat="50.85873" lon="4.34556"><ele>20</ele></trkpt>
+      <trkpt lat="50.85862" lon="4.34588"><ele>19</ele></trkpt>
+      <trkpt lat="50.85833" lon="4.34690"><ele>19</ele></trkpt>
+      <trkpt lat="50.85812" lon="4.34805"><ele>18</ele></trkpt>
+      <trkpt lat="50.85796" lon="4.34860"><ele>18</ele></trkpt>
+      <trkpt lat="50.85779" lon="4.34852"><ele>18</ele></trkpt>
+      <trkpt lat="50.85745" lon="4.34856"><ele>18</ele></trkpt>
+      <trkpt lat="50.85735" lon="4.34852"><ele>18</ele></trkpt>
+      <trkpt lat="50.85572" lon="4.35441"><ele>18</ele></trkpt>
+      <trkpt lat="50.85564" lon="4.35514"><ele>18</ele></trkpt>
+      <trkpt lat="50.85603" lon="4.35536"><ele>18</ele></trkpt>
+      <trkpt lat="50.85608" lon="4.35551"><ele>18</ele></trkpt>
+      <trkpt lat="50.85612" lon="4.35554"><ele>18</ele></trkpt>
+      <trkpt lat="50.85702" lon="4.35597"><ele>19</ele></trkpt>
+      <trkpt lat="50.85700" lon="4.35608"><ele>18</ele></trkpt>
+      <trkpt lat="50.85715" lon="4.35616"><ele>18</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Traject" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Neder-Over-Heembeek → Bd du Roi Albert II 5</name><desc>6,5 km · vélo classique 25 min · vélo de course 15 min · VAE 20 min</desc></metadata>
+  <wpt lat="50.89747" lon="4.38791"><name>Départ – Neder-Over-Heembeek</name></wpt>
+  <wpt lat="50.85713" lon="4.35629"><name>Arrivée – Bd du Roi Albert II 5, 1210 Bruxelles</name></wpt>
+  <trk>
+    <name>Neder-Over-Heembeek → Bd du Roi Albert II 5</name>
+    <desc>6,5 km · vélo classique 25 min · vélo de course 15 min · VAE 20 min</desc>
+    <type>cycling</type>
+    <trkseg>
+      <trkpt lat="50.89747" lon="4.38791"><ele>49</ele></trkpt>
+      <trkpt lat="50.89733" lon="4.38806"><ele>48</ele></trkpt>
+      <trkpt lat="50.89726" lon="4.38803"><ele>47</ele></trkpt>
+      <trkpt lat="50.89651" lon="4.38826"><ele>44</ele></trkpt>
+      <trkpt lat="50.89650" lon="4.38819"><ele>44</ele></trkpt>
+      <trkpt lat="50.89592" lon="4.38854"><ele>42</ele></trkpt>
+      <trkpt lat="50.89579" lon="4.38856"><ele>41</ele></trkpt>
+      <trkpt lat="50.89545" lon="4.38876"><ele>40</ele></trkpt>
+      <trkpt lat="50.89483" lon="4.38613"><ele>41</ele></trkpt>
+      <trkpt lat="50.89478" lon="4.38389"><ele>41</ele></trkpt>
+      <trkpt lat="50.89470" lon="4.38316"><ele>39</ele></trkpt>
+      <trkpt lat="50.89386" lon="4.37876"><ele>30</ele></trkpt>
+      <trkpt lat="50.89330" lon="4.37890"><ele>27</ele></trkpt>
+      <trkpt lat="50.89317" lon="4.37623"><ele>33</ele></trkpt>
+      <trkpt lat="50.89182" lon="4.37670"><ele>28</ele></trkpt>
+      <trkpt lat="50.89171" lon="4.37666"><ele>27</ele></trkpt>
+      <trkpt lat="50.89157" lon="4.37686"><ele>26</ele></trkpt>
+      <trkpt lat="50.89110" lon="4.37735"><ele>22</ele></trkpt>
+      <trkpt lat="50.89056" lon="4.37761"><ele>19</ele></trkpt>
+      <trkpt lat="50.89043" lon="4.37775"><ele>18</ele></trkpt>
+      <trkpt lat="50.89019" lon="4.37785"><ele>17</ele></trkpt>
+      <trkpt lat="50.88858" lon="4.37875"><ele>18</ele></trkpt>
+      <trkpt lat="50.88850" lon="4.37891"><ele>18</ele></trkpt>
+      <trkpt lat="50.88795" lon="4.37848"><ele>19</ele></trkpt>
+      <trkpt lat="50.88757" lon="4.37808"><ele>19</ele></trkpt>
+      <trkpt lat="50.88729" lon="4.37768"><ele>19</ele></trkpt>
+      <trkpt lat="50.88700" lon="4.37712"><ele>19</ele></trkpt>
+      <trkpt lat="50.88685" lon="4.37728"><ele>19</ele></trkpt>
+      <trkpt lat="50.88681" lon="4.37728"><ele>19</ele></trkpt>
+      <trkpt lat="50.88657" lon="4.37749"><ele>19</ele></trkpt>
+      <trkpt lat="50.88647" lon="4.37749"><ele>19</ele></trkpt>
+      <trkpt lat="50.88544" lon="4.37844"><ele>19</ele></trkpt>
+      <trkpt lat="50.88539" lon="4.37863"><ele>19</ele></trkpt>
+      <trkpt lat="50.88526" lon="4.37880"><ele>19</ele></trkpt>
+      <trkpt lat="50.88513" lon="4.37864"><ele>19</ele></trkpt>
+      <trkpt lat="50.88483" lon="4.37841"><ele>20</ele></trkpt>
+      <trkpt lat="50.88471" lon="4.37838"><ele>20</ele></trkpt>
+      <trkpt lat="50.88445" lon="4.37819"><ele>20</ele></trkpt>
+      <trkpt lat="50.88409" lon="4.37778"><ele>20</ele></trkpt>
+      <trkpt lat="50.88379" lon="4.37721"><ele>20</ele></trkpt>
+      <trkpt lat="50.88311" lon="4.37574"><ele>20</ele></trkpt>
+      <trkpt lat="50.88269" lon="4.37502"><ele>20</ele></trkpt>
+      <trkpt lat="50.88194" lon="4.37404"><ele>20</ele></trkpt>
+      <trkpt lat="50.88175" lon="4.37391"><ele>22</ele></trkpt>
+      <trkpt lat="50.88152" lon="4.37390"><ele>22</ele></trkpt>
+      <trkpt lat="50.88036" lon="4.37509"><ele>20</ele></trkpt>
+      <trkpt lat="50.87993" lon="4.37531"><ele>21</ele></trkpt>
+      <trkpt lat="50.87946" lon="4.37546"><ele>21</ele></trkpt>
+      <trkpt lat="50.87931" lon="4.37556"><ele>22</ele></trkpt>
+      <trkpt lat="50.87898" lon="4.37599"><ele>19</ele></trkpt>
+      <trkpt lat="50.87822" lon="4.37574"><ele>22</ele></trkpt>
+      <trkpt lat="50.87803" lon="4.37563"><ele>23</ele></trkpt>
+      <trkpt lat="50.87778" lon="4.37522"><ele>23</ele></trkpt>
+      <trkpt lat="50.87646" lon="4.37486"><ele>23</ele></trkpt>
+      <trkpt lat="50.87611" lon="4.37481"><ele>23</ele></trkpt>
+      <trkpt lat="50.87575" lon="4.37484"><ele>23</ele></trkpt>
+      <trkpt lat="50.87538" lon="4.37495"><ele>22</ele></trkpt>
+      <trkpt lat="50.87508" lon="4.37510"><ele>22</ele></trkpt>
+      <trkpt lat="50.87499" lon="4.37503"><ele>22</ele></trkpt>
+      <trkpt lat="50.87498" lon="4.37454"><ele>23</ele></trkpt>
+      <trkpt lat="50.87485" lon="4.37432"><ele>22</ele></trkpt>
+      <trkpt lat="50.87152" lon="4.37258"><ele>23</ele></trkpt>
+      <trkpt lat="50.87154" lon="4.37193"><ele>21</ele></trkpt>
+      <trkpt lat="50.87147" lon="4.37102"><ele>20</ele></trkpt>
+      <trkpt lat="50.87128" lon="4.37012"><ele>19</ele></trkpt>
+      <trkpt lat="50.87109" lon="4.36951"><ele>19</ele></trkpt>
+      <trkpt lat="50.87080" lon="4.36966"><ele>19</ele></trkpt>
+      <trkpt lat="50.87073" lon="4.36951"><ele>19</ele></trkpt>
+      <trkpt lat="50.86976" lon="4.36837"><ele>19</ele></trkpt>
+      <trkpt lat="50.86971" lon="4.36832"><ele>19</ele></trkpt>
+      <trkpt lat="50.86965" lon="4.36833"><ele>19</ele></trkpt>
+      <trkpt lat="50.86963" lon="4.36811"><ele>18</ele></trkpt>
+      <trkpt lat="50.86955" lon="4.36812"><ele>18</ele></trkpt>
+      <trkpt lat="50.86951" lon="4.36807"><ele>18</ele></trkpt>
+      <trkpt lat="50.86769" lon="4.36596"><ele>17</ele></trkpt>
+      <trkpt lat="50.86764" lon="4.36567"><ele>17</ele></trkpt>
+      <trkpt lat="50.86715" lon="4.36582"><ele>17</ele></trkpt>
+      <trkpt lat="50.86709" lon="4.36559"><ele>17</ele></trkpt>
+      <trkpt lat="50.86570" lon="4.36494"><ele>19</ele></trkpt>
+      <trkpt lat="50.86602" lon="4.36309"><ele>17</ele></trkpt>
+      <trkpt lat="50.85944" lon="4.36011"><ele>21</ele></trkpt>
+      <trkpt lat="50.85920" lon="4.36013"><ele>18</ele></trkpt>
+      <trkpt lat="50.85890" lon="4.35999"><ele>17</ele></trkpt>
+      <trkpt lat="50.85868" lon="4.35987"><ele>17</ele></trkpt>
+      <trkpt lat="50.85853" lon="4.35969"><ele>17</ele></trkpt>
+      <trkpt lat="50.85634" lon="4.35870"><ele>18</ele></trkpt>
+      <trkpt lat="50.85621" lon="4.35868"><ele>18</ele></trkpt>
+      <trkpt lat="50.85693" lon="4.35607"><ele>18</ele></trkpt>
+      <trkpt lat="50.85715" lon="4.35616"><ele>18</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
